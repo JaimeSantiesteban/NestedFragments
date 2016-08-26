@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NestedFragments</string>
+    <string name="i_am_fragmenta">I am FragmentA</string>
+    <string name="parent_fragment">I am the parent fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_container">View Container</string>
+    <string name="child_fragment">child fragment</string>
+</resources>
